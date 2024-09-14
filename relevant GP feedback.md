@@ -1,0 +1,3 @@
+- Introduction and Conclusion
+- Speak about work done rather than work not done in documentation.
+- Simple evidence of regular developer testing gets most of the testing marks.
