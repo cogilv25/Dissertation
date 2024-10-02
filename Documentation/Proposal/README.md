@@ -47,7 +47,7 @@ As this project is quite large, does not have a clearly defined destination, and
 A specific named methodology will not be used as these are typically designed for teams creating commercial software instead of lone developers without involved clients. The chosen methodology will use a Kanban board to track what tasks are pending, in progress and complete, and Scrum inspired sprints will be used where tasks are chosen each week based on a ranking of their estimated value. The pending column of the Kanban board will serve as this ranking and will be updated each week reconsidering the value of all the tasks in the list as well as uncompleted tasks from the previous sprint which may be moved to pending if their estimated value drops below other tasks. New tasks will be added to the pending column as they are formulated. I have used this methodology in past projects to good effect and so am confident it will be effective here.
 
 # Project plan/timeline
-![gantt chart of project timeline](./Gantt screenshot.png)
+![gantt chart of project timeline](./Gantt%20screenshot.png)
 
 # Supervisor meeting arrangements
 The student will meet online with their supervisor every Wednesday afternoon at 1pm for 30 mins using Microsoft Teams.
