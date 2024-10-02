@@ -1,0 +1,2 @@
+# Where Have L-Systems Been Under-Utilized in 3D Games?
+The goal of the project is to explore, extend and reimagine the usage of L-Systems within the field of procedural content generation in 3D video games. See the [full proposal](./Documentation/Proposal) for more details.
