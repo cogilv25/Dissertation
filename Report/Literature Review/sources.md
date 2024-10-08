@@ -144,7 +144,7 @@ Instancing](https://nccastaff.bmth.ac.uk/jmacey/MastersProject/MSc19/02/MastersR
 - [Rhythm-Based Level Generation for 2D Platformers](https://www.researchgate.net/publication/220795055_Rhythm-based_level_generation_for_2D_platformers)
 - [General Video Game Level Generation](https://www.um.edu.mt/library/oar/bitstream/123456789/81555/1/General_video_game_level_generation_2016.pdf)
 - [Procedural Game Level Generation by Joining Geometry with Hand-Placed Connectors](https://www.researchgate.net/profile/Nuno-Fachada/publication/351841420_Procedural_Game_Level_Generation_by_Joining_Geometry_with_Hand-Placed_Connectors/links/60ace3aea6fdcc647ed74abf/Procedural-Game-Level-Generation-by-Joining-Geometry-with-Hand-Placed-Connectors.pdf)
-- [Design Patterns and General Video Game LevelGeneration](https://www.researchgate.net/profile/Adeel-Zafar/publication/320129531_Design_Patterns_and_General_Video_Game_Level_Generation/links/5d5138a4299bf1995b784bbd/Design-Patterns-and-General-Video-Game-Level-Generation.pdf)
+- [Design Patterns and General Video Game Level Generation](https://www.researchgate.net/profile/Adeel-Zafar/publication/320129531_Design_Patterns_and_General_Video_Game_Level_Generation/links/5d5138a4299bf1995b784bbd/Design-Patterns-and-General-Video-Game-Level-Generation.pdf)
 - [Authoring Adaptive Game World Generation](https://www.researchgate.net/publication/314269477_Authoring_Adaptive_Game_World_Generation)
 
 ## Textures
