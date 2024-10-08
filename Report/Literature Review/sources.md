@@ -39,7 +39,7 @@ Modeling](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dbf8645
 - [Evolving Complete L-Systems: Using Genetic Algorithms for the Generation of Realistic Plants](https://link.springer.com/chapter/10.1007/978-3-319-90418-4_2)
 - [Dynamic Animation and Re-Modelling Of L-Systems](https://nccastaff.bournemouth.ac.uk/jmacey/OldWeb/MastersProjects/MSc09/Hampshire/thesis.pdf)
 - [Intelligent Tree Modeling Based on L-system](https://www.researchgate.net/publication/216337877_Intelligent_Tree_Modeling_Based_on_L-system)
-- [Realistic Simulation of Tomato Garden Based on GPU](https://link.springer.com/chapter/10.1007/978-3-642-34387-2_42Realistic Simulation of Tomato Garden Based on GPU)
+- [Realistic Simulation of Tomato Garden Based on GPU](https://link.springer.com/chapter/10.1007/978-3-642-34387-2_42)
 - [Dynamic Computation of Levels of Detail in Complex Outdoor Environments](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2d21caeaa38e00e6d3b2d416a6cdd55329c14fd4)
 - [Generating Climbing Plants Using L-Systems](https://www.researchgate.net/profile/Olatunji-Omisore/post/Is-there-any-good-and-detailed-practical-material-on-L-System-for-plant-growth-and-development-apart-from-the-Algorithmic-beauty-of-plants/attachment/59d6246879197b8077982be7/AS%3A312719578730500%401451569565592/download/climbingplants.pdf)
 - [Web resource of MANY papers, books, etc](http://algorithmicbotany.org/papers/)
