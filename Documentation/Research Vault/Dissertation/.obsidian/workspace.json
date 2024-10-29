@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "539d6a542438061e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd10fc84f50bb614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a885e72dfff1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Papers"
+            }
+          },
+          {
+            "id": "3396bdd8031a7426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Read/L-Systems and Procedural Generation of Virtual Game Maze Sceneries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L-Systems and Procedural Generation of Virtual Game Maze Sceneries"
+            }
+          },
+          {
+            "id": "2e72c834291daecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Extended L-Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extended L-Systems"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54d07b1e7fcfaeb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "36948a98c4e12366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed773e53ac4a985",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44198ee9fbed6a52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "789d1b923a987844",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdc254728ca2ea41",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0194f8cb5641d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5759f294262fc123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/Two-step Constructive Approaches for Dungeon Generation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Two-step Constructive Approaches for Dungeon Generation"
+            }
+          },
+          {
+            "id": "d9156eeb58809827",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Papers/Two-step Constructive Approaches for Dungeon Generation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Two-step Constructive Approaches for Dungeon Generation"
+            }
+          },
+          {
+            "id": "0bdd915a6b0d7cf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e798e01a851af255",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Papers/Two-step Constructive Approaches for Dungeon Generation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Two-step Constructive Approaches for Dungeon Generation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e72c834291daecd",
+  "lastOpenFiles": [
+    "Report/Titles.md",
+    "Papers.md",
+    "Papers/Read/L-Systems and Procedural Generation of Virtual Game Maze Sceneries.md",
+    "Algorithms/Functional L-System.md",
+    "Algorithms/Functional L-System.md",
+    "Experimental/Self-Similarity Based Mechanic.md",
+    "Algorithms/Parametric L-System.md",
+    "Algorithms/Extended L-Systems.md",
+    "Algorithms/Stochastic L-System.md",
+    "Papers/Read/Game Mechanics Integrated with a Lindenmayer System.md",
+    "Papers/Read/Automatic Generation of Game Levels Based on Controllable Wave Function Collapse Algorithm.md",
+    "Papers/Read/Procedural Modeling of Cities.md",
+    "Papers/Read/Two-step Constructive Approaches for Dungeon Generation.md",
+    "Papers/Hierarchical Semantic Wave Function Collapse.md",
+    "Papers/Fractal Objects in Computer Graphics.md",
+    "Papers/Example-Based Model Synthesis.md",
+    "Papers/Tracery.md",
+    "Bin",
+    "Bin/Pasted image 20241029203332.png",
+    "Stochastic.md",
+    "Experimental",
+    "Papers/A Virtual Reality Game Utilizing L-Systems for Dynamic Level Generation.md",
+    "Concepts/Alphabet.md",
+    "Concepts/Agent-Based Generation.md",
+    "Assets/Level.md",
+    "Algorithms/Wave Function Collapse.md",
+    "Algorithms/L-System.md",
+    "Metrics/Structural Analysis.md",
+    "Report/Literature Review.md",
+    "Assets",
+    "Papers/Read",
+    "Metrics",
+    "Report",
+    "Algorithms",
+    "Concepts",
+    "Papers",
+    "Automatic Generation of Game Levels Based on Controllable Wave Function Collapse 1.pdf"
+  ]
+}

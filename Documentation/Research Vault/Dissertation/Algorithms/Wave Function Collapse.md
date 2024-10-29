@@ -1,0 +1,2 @@
+A list of rules is created for how different types of volumes can be arranged on a grid relative to one another, for each cell in the grid a list of possible occupants is generated, which at the beginning will generally be all possibilities.  
+#algorithm
