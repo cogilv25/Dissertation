@@ -4,7 +4,7 @@ This paper presents a method for generating large scale cities composed of a roa
 ### Thoughts on Usage
 - Most likely used to justify not pursuing City generation as this paper and the following work by Pascal Müller extensively covers this area of research and the software he produced and it's derivatives are extensively used in movies and games.
 - The technique outlined in this paper (I believe there is another paper which coined this as "[[Functional L-System]]" which I prefer and will have to find) sounds very promising and I can see uses for it in the generation of other assets where loose artistic control is desired (Items, Terrain (impose limits on how rough or similar neighbouring points are), ) .
-- Quote #1 relates to a method for closing the loop where it would be reasonable to do so when generating a road network. I can see this having applications in many areas such as texture generation and level generation. See included image: ![[Pasted image 20241105171752.png]]
+- Quote #1 relates to a method for closing the loop where it would be reasonable to do so when generating a road network. I can see this having applications in many areas such as texture generation and level generation. See included image: ![[lsystem_circuit_closing.png]]
 ### Further Work
 There were a few papers released later that built upon this research which I will list here as I work through them:
 ### Paper
@@ -12,4 +12,4 @@ There were a few papers released later that built upon this research which I wil
 - [Web](https://web.archive.org/web/20060114082225/http://www.vision.ee.ethz.ch/~pmueller/documents/procedural_modeling_of_cities__siggraph2001.pdf)
 
 
-#paper
+#source

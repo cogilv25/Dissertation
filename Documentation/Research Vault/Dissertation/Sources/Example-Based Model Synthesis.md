@@ -6,4 +6,4 @@ The original paper for [[Wave Function Collapse]], although the method was origi
 
 
 
-#paper
+#source
