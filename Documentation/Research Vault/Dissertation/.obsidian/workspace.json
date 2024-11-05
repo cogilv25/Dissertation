@@ -162,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55a885e72dfff1ad",
+  "active": "4ed773e53ac4a985",
   "lastOpenFiles": [
     "Bin/node_rewriting.png",
     "Sources/The Algorithmic Beauty of Plants.md",
     "Sources/Tracery.md",
-    "Node Re-Writing.md",
+    "Concepts/Node Re-Writing.md",
     "README.md",
     "Sources/Read/Procedural Modeling of Cities.md",
     "Bin/lsystem_circuit_closing.png",
