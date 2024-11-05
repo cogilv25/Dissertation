@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers.md",
+                "file": "Papers/Read/Procedural Modeling of Cities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers"
+              "title": "Procedural Modeling of Cities"
+            }
+          },
+          {
+            "id": "5f7eac76faf0c43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -34,23 +48,9 @@
               "icon": "lucide-file",
               "title": "L-Systems and Procedural Generation of Virtual Game Maze Sceneries"
             }
-          },
-          {
-            "id": "2e72c834291daecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Extended L-Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extended L-Systems"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,20 +191,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e72c834291daecd",
+  "active": "4ed773e53ac4a985",
   "lastOpenFiles": [
-    "Report/Titles.md",
+    "Bin/Pasted image 20241105173321.png",
+    "Pasted image 20241105172412.png",
+    "README.md",
+    "Papers/Read/Procedural Modeling of Cities.md",
+    "Bin/Pasted image 20241105171752.png",
     "Papers.md",
     "Papers/Read/L-Systems and Procedural Generation of Virtual Game Maze Sceneries.md",
+    "Algorithms/Extended L-Systems.md",
+    "Report/Titles.md",
     "Algorithms/Functional L-System.md",
     "Algorithms/Functional L-System.md",
     "Experimental/Self-Similarity Based Mechanic.md",
     "Algorithms/Parametric L-System.md",
-    "Algorithms/Extended L-Systems.md",
     "Algorithms/Stochastic L-System.md",
     "Papers/Read/Game Mechanics Integrated with a Lindenmayer System.md",
     "Papers/Read/Automatic Generation of Game Levels Based on Controllable Wave Function Collapse Algorithm.md",
-    "Papers/Read/Procedural Modeling of Cities.md",
     "Papers/Read/Two-step Constructive Approaches for Dungeon Generation.md",
     "Papers/Hierarchical Semantic Wave Function Collapse.md",
     "Papers/Fractal Objects in Computer Graphics.md",
@@ -220,8 +224,6 @@
     "Assets/Level.md",
     "Algorithms/Wave Function Collapse.md",
     "Algorithms/L-System.md",
-    "Metrics/Structural Analysis.md",
-    "Report/Literature Review.md",
     "Assets",
     "Papers/Read",
     "Metrics",
