@@ -9,6 +9,7 @@
 - [x] [[Procedural Modeling of Cities]]
 - [x] [[Game Mechanics Integrated with a Lindenmayer System]]
 - [x] [[L-Systems and Procedural Generation of Virtual Game Maze Sceneries]]
+- [ ] [[Graphical Applications of L-Systems]]
 
 # Books
 - [[The Algorithmic Beauty of Plants]]

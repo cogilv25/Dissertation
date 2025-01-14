@@ -1,4 +1,4 @@
-The original paper for [[Wave Function Collapse]], although the method was originally coined as ...
+The original paper for [[Wave Function Collapse]], although the method was referred to as Example-Based Model Synthesis at this point.
 
 ### Paper
 - [Local](file:///W:/Bsc%20Computing/Dissertation/Third%20Party/Papers/Example%20Based%20Model%20Synthesis.pdf)

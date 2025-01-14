@@ -1,0 +1,3 @@
+0L-Systems are context free because the 0 gives the number of vectors along which context will be searched when determining whether or not to apply a production rule where the predecessor has been found. This means that no context is taken into account and the rule is always applied where the symbol is found. See [[1L-Systems]], [[2L-Systems]], and [[IL-Systems]] for alternatives which help solidify this concept.
+
+#algorithm
