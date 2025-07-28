@@ -1,0 +1,21 @@
+- L-System Primitive
+	- Generate the edge of a sword as a fractal where the dimensionality(n) could for example increase the number of and size of serrations as n increases
+	- An L-System as a primitive extending this sword idea, so you would in that case create an L-System edge and it would have a modifiable pattern(rules) and a dimensionality(n).
+	- You can Further extend that into a pattern cut out of the blade common on some decorative swords and machetes, this could be a separate material..
+- Terrain Generation
+	- We could create L-Systems that generate strings causing the turtle to continuously retrace it's own steps chaotically, then each time we go over a node we raise it a bit.. this means the number of times we visit a node defines it's height.. I think this could have some interesting results, not sure if they will be good or not but interesting..
+	- We could also do the inverse of the above, we could errode the ground that the turtle walks upon.
+	- We could combine the 2, do a construction step and then an erosion step, these could use different generators.
+	- Developed version does both at the same time using u for up and d for down.. not sure what is better but it was faster.
+- AI Pathing
+	- Generate a path for AI to travel
+	- Maybe generate the searching path for virtual ants?
+	- These paths would have to convert stack push / pops to forks.
+- Multi-Stage L-System
+	- First Stage generates an l-system where nodes represent objects. Second Stage generates the objects from the object nodes.
+-  Incremental Multi-Stage L-System
+	- Allows incremental L-System generation, for example processing a certain number of nodes at a time.
+	- Additional use cases could be allowing a certain amount of time to be used.
+- A 3D Maze that regenerates itself on the fly.
+	- Partially re-generates to the same iteration with new random values so that the maze is challenging to escape as it regularly rewrites itself.
+	- It could put you back in the middle each time it regenerates without changing your view of the maze by using a FL-System.
