@@ -1,7 +1,7 @@
 Adds Global constraints to the original algorithm as well as native production of multiple layers, which was a criticism made of the original algorithm, however, I feel this was such a simple change as to be considered obvious and unimportant by the original [[Wave Function Collapse]] algorithm's author. Adds QOL features such as automatic calculation of symmetrically derivable rules.
 
 Global Constraint Examples:
-- Minimum / Maximum number of tiles top generate
+- Minimum / Maximum number of tiles to generate
 - Distance constraints between types of tile
 
 ### Papers
